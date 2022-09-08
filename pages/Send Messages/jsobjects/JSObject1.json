@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Send Messages",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tenv: () => 'https::'\n}",
+    "variables": []
+  },
+  "id": "Send Messages_JSObject1",
+  "deleted": false,
+  "gitSyncId": "6318ae6dedfb4e0b6ffd3c99_631982491df89313e257d191"
+}
